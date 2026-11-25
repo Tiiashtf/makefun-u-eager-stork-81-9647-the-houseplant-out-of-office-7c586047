@@ -1,1 +1,0 @@
-Temporary file to expose the repository About editor; it will be removed.
